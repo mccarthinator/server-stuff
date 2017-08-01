@@ -39,9 +39,9 @@ serverTwo.listen(PORTTWO, function() {
   console.log("Server listening on: http://localhost:%s", PORTTWO);
 });
 
-phrasesArray = [
-  "you're so smart!",
-  "not the brightest crayon in the box",
-  "how'd you do that? you're a magician",
-  "your face is odd."
-];
+// phrasesArray = [
+//   "you're so smart!",
+//   "not the brightest crayon in the box",
+//   "how'd you do that? you're a magician",
+//   "your face is odd."
+// ];
